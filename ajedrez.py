@@ -69,6 +69,7 @@ tablero = tab(blancas,pblancas,tablero)
 ####bucle para el tablero
 for e in tablero:
     print (e)
+    print("a")
 
 # print(pblancas)
 
